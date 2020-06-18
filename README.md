@@ -1,3 +1,5 @@
+This Code is converted to Pytorch and mxnet for portability and developments.
+
 Generating Videos with Scene Dynamics
 =====================================
 
